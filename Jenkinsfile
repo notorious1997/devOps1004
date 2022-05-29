@@ -4,6 +4,6 @@ node {
         git "https://github.com/notorious1997/devOps1004.git"
     }
     stage("show files"){
-        bat "dir"
+        sh "ls -l"
     }
 }
