@@ -1,0 +1,11 @@
+requests
+awscli
+flask
+
+
+
+
+
+
+
+
