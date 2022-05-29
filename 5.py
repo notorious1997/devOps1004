@@ -32,7 +32,6 @@ print(f"input are {l}")
 
 
 
-
 n = [1, 2, 3, 4, 5]
 result = [num * 2 for num in n]
 for num in n:
@@ -41,10 +40,9 @@ for num in n:
         print(result)
 
 
-
-
-
 for i in range(1, 101):
     if i % 7 != 0 and "7" not in str(i):
         print(i)
 
+
+print("experts")

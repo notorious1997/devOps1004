@@ -10,6 +10,9 @@ h = "aviel \"buskila\""
 j = 5
 k = a + str(j)
 
+
+sdgvdgvvddfdv
+
 print(a)
 print(b)
 print(c)
